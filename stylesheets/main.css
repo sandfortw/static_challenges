@@ -12,6 +12,7 @@ nav {
   color: white;
   background-color: rgb(58, 58, 58);
   text-align: right;
+  height: 50px;
 }
 
 img {
@@ -36,7 +37,6 @@ h6 {
   margin-left: auto;
   padding: 10px;
   text-decoration-line: underline;
-
 }
 
 
