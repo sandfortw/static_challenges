@@ -11,6 +11,7 @@ background-color: darkred;
 nav {
   color: white;
   background-color: rgb(58, 58, 58);
+  text-align: right;
 }
 
 img {
@@ -28,4 +29,19 @@ aside {
   right: 0;
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 200px;
+}
+
+h6 {
+  display: inline-block;
+  margin-left: auto;
+  padding: 10px;
+  text-decoration-line: underline;
+
+}
+
+
+footer {
+  color: white;
+  background-color: rgb(58, 58, 58);
+  text-align: left;
 }
